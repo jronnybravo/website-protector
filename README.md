@@ -1,5 +1,8 @@
 # website-protector
-Protect your website files from intentional downloads and reverse engineering
+Protect your website files from intentional downloads and reverse engineering.
+* Prevents full download using `File->Save Page As...` or `Right Click->Save As...`
+* Prevents direct access to the images and js files
+* Prevents saving through the use of website copiers like HTTrack
 
 ## Prerequisites
 1. Your server should run *Apache*
