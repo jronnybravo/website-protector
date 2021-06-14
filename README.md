@@ -10,4 +10,4 @@ Protect your website files from intentional downloads and reverse engineering
 2. That's it!
 
 ## Troubleshooting
-1. If in case your web page's images are behaving undexpectedly, set the value of `protect_images` to false on `protected/protect.json` file
+1. If in case your web page's images are behaving undexpectedly (usually due to incorrect formatting), set the value of `protect_images` to *false* on the `protected/protect.json` file
