@@ -1,0 +1,1 @@
+Auto-generated files shall be stored here. These JS files are the codes inside the <script> tag and shall be deferred and loaded secretly.
