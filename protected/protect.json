@@ -1,0 +1,11 @@
+{
+    "protect_stylesheets": true,
+    "protect_images": true,
+    "protect_scripts": true,
+    "scripts": [
+        "assets\/plugins\/jronny-countdown-timer\/js\/jquery.countdown-timer.js",
+        "assets\/plugins\/jronny-crane\/js\/jquery.crane.js",
+        "protected\/build\/8a868258e971723efce782d31f0a277d.js",
+        "protected\/build\/ada9155c842c54b164fa7f3a951ff99f.js"
+    ]
+}
